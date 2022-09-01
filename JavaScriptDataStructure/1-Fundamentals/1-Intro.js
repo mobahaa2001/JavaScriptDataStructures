@@ -8,13 +8,13 @@
  And Typically, You will have tasks that require different kinds of data or different ways of managing data.
 
  Here are a couple of common use cases
-/*
+
     Different tasks require different "Data Structures"
         * Ordered List of Data, Duplicates Allowed
         * Unordered List of Data, No Duplicates wanted
         * Key-value Pairs of Unorderd Data
         * Key-value Pairs of Ordered, Iterable Data
-*/
+
  You might have tasks where you need ordered lists of data and where duplicate data is wanted or allowed.
  In other tasks you might not care whether the order of the data is kept, and you might not want or need duplicate data, So you might be fine with working with unique values, or you might actually want unique values.
  Then you might have cases where you don't just care about the values and whether they are ordered or not... You might actually them to an identifier, You might want key value pairs of unordered or oredered data.
