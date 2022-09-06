@@ -6,7 +6,9 @@ new Set()
 set.add('dog')
 set.add('cat')
 set.add('dog') // Not Added
-
+///////////////////////////////////////////////////
+//////////////-------Notes--------////////////////
+/////////////////////////////////////////////////
 // --> Insertion order is not stored/ memorized
 // --> Element access and extraction via method
 // --> Iterable (= You can use the for-of loop)
