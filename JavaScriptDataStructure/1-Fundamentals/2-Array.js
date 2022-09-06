@@ -1,5 +1,7 @@
 // This is an Array
 let a = [1, 3, 6, 2]
+
+//////////////-------Notes--------////////////////
 // -> Insertion order is kept
 // -> Element access via index
 // -> Iterable (= You can use the for-of loop)
