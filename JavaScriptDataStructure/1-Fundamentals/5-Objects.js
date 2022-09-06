@@ -1,6 +1,6 @@
 // Object- A Closer Look
 // An Object can look like this
-/*
+
 {
     name: 'Mo',
     age: 21,
@@ -9,7 +9,6 @@
     }
 }
 
-*/
 //////////////-------Notes--------////////////////
 
 // Object in general are unordered key value pairs of data.
@@ -30,13 +29,13 @@ const person = {
     console.log('Hi, I am ' + this.name)
   },
 }
-// console.log(person[0])
+console.log(person[0])
 // Input -->  indefined
-// console.log(person['firstName'])
+console.log(person['firstName'])
 // Input --> Mo
-// console.log(person.firstName)
+console.log(person.firstName)
 // Input --> Mo
-// console.log(person.age)
+console.log(person.age)
 // Input --> 21
 // So age has overwritten
 
